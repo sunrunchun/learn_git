@@ -1,2 +1,1 @@
-hello git
-i hope i like you
+this is my second use git
